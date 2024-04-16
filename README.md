@@ -51,10 +51,8 @@
 
     Tool    ::: Ｍｉ-ＴｅｒｍＢｕｉｌｄ
 
-    Author   : InferiorAK
-    Github   : github.com/InferiorAK
-    Facebook : facebook.com/InferiorAK
-    Youtube  : youtube.com/@inferiorak
+   ## Github   : github.com/vonixtzy75
+## 1st Release: 05-05-2023
     Version  : 1.0
 
 
