@@ -1,7 +1,5 @@
-## Facebook : fb.com/InferiorAK
-## Github   : github.com/InferiorAK
-## Twitter  : twitter.com/@InferiorAK
-## Youtube  : youtube.com/@InferiorAK
+## Github   : github.com/vonixtzy75
+## 1st Release: 05-05-2023
 
 banner(){
     if which lolcat > /dev/null 2>&1 ; then
@@ -15,11 +13,8 @@ banner(){
 
     \e[1mTool    ::: Ｍｉ-ＴｅｒｍＢｕｉｌｄ\e[0m
 
-    Author   : InferiorAK
-    Github   : github.com/InferiorAK
-    Facebook : facebook.com/InferiorAK
-    Youtube  : youtube.com/@inferiorak
-    Version  : 1.0
+   ## Github   : github.com/vonixtzy75
+## 1st Release: 05-05-2023
 
 " | lolcat
     else
@@ -33,10 +28,8 @@ banner(){
 
     Tool    ::: Ｍｉ-ＴｅｒｍＢｕｉｌｄ
 
-    Author   : InferiorAK
-    Github   : github.com/InferiorAK
-    Facebook : facebook.com/InferiorAK
-    Youtube  : youtube.com/@inferiorak
+ ## Github   : github.com/vonixtzy75
+## 1st Release: 05-05-2023
     Version  : 1.0
 
             \e[0m"
