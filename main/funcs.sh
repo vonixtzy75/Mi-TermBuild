@@ -1,8 +1,5 @@
-## Facebook : fb.com/InferiorAK
-## Github   : github.com/InferiorAK
-## Twitter  : twitter.com/@InferiorAK
-## Youtube  : youtube.com/@InferiorAK
-
+## Github   : github.com/vonixtzy75
+## 1st Release: 05-05-2023
 # symbol
 suc(){
 	printf " ${GREEN}$1${WHITE}$2${GREEN}$3\e[0m "
